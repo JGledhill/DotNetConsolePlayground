@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33717.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConsolePlayground", "DotNetDemoGame\DotNetConsolePlayground.csproj", "{17BF1C9C-86A9-4795-8B5C-8C0FC562842B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetConsolePlayground", "DotNetConsolePlayground\DotNetConsolePlayground.csproj", "{61526B27-4612-4293-913B-A6364BE253B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17BF1C9C-86A9-4795-8B5C-8C0FC562842B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17BF1C9C-86A9-4795-8B5C-8C0FC562842B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17BF1C9C-86A9-4795-8B5C-8C0FC562842B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17BF1C9C-86A9-4795-8B5C-8C0FC562842B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61526B27-4612-4293-913B-A6364BE253B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61526B27-4612-4293-913B-A6364BE253B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61526B27-4612-4293-913B-A6364BE253B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61526B27-4612-4293-913B-A6364BE253B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
